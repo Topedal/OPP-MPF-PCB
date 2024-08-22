@@ -2,8 +2,8 @@ A PCB gerber and config files for use with Open Pinball Project OPP and Mission 
 
 Depending upon chosen configuration the board can be setup for;
   - eight solenoids, 7 direct switches, 256 seial leds and
-  - either 64 switches in an eight by eight matrix OR
-  - 16 direct switches.
+  - either 64 switches in an eight by eight matrix
+  - or 16 direct switches.
 
 Files:
 - SolNeoSWmat.zip is the pcb gerber files
